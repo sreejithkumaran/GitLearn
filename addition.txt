@@ -1,1 +1,5 @@
 // Write code for addition here
+public int addition( int a , int b ){
+
+ return a + b;
+}
