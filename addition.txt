@@ -1,4 +1,9 @@
 // Write code for addition here
+public float addition( int x , int y ){
+
+ return x + y;
+}
+
 public int addition( int a , int b ){
 
  return a + b;
