@@ -1,0 +1,5 @@
+//Write code for multiplication here
+public int addition( int a , int b ){
+
+ return a x b;
+}
